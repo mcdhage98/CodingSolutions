@@ -1,4 +1,4 @@
-package com.mayur.expression.speedConverter;
+package speedConverter;
 
 public class SpeedConverter {
 	//test comment

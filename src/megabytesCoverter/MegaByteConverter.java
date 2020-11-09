@@ -1,4 +1,4 @@
-package com.mayur.expressions.megabytesCoverter;
+package megabytesCoverter;
 
 public class MegaByteConverter {
 
